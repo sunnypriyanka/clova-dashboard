@@ -1,3 +1,12 @@
+# Clova-Dashboard
+
+### Developed by ` Priyanka ` with React
+
+# screenshot : 
+
+![clova](https://user-images.githubusercontent.com/88229034/133721884-682bb2ff-b903-4c97-af3d-cb485bb96a8c.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
